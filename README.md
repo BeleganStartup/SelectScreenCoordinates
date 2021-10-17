@@ -1,2 +1,2 @@
 # SelectScreenCoordinates
-How to get the selected area coordinates of the screen.
+Get selected area coordinates in windows.
